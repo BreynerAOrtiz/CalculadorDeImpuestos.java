@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Oct 06 20:16:22 COT 2026
+comment0.target=JFCalculador
+comment0.text=\r\n Interfaz del Calculador de Impuestos - 5 zonas segun el enunciado.\r\n
+comment1.target=JFCalculador()
+comment2.target=void crearInterfaz()
+comment3.target=void actualizarInterfaz()
+numComments=4
